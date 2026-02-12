@@ -8,5 +8,6 @@
  4. Amna Asad - 49298
  5. Izza Maryam - 49360
 
-This is the Initial Project created by Team Leader (Tayyaba Rehman).
+- This is the Initial Project created by Team Leader (Tayyaba Rehman).
+- Changes made in index.html (adding underline tag to the heading) at commit 5 by Eiman Ahmed.
 
