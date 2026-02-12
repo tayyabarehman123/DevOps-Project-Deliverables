@@ -11,3 +11,4 @@
 - This is the Initial Project created by Team Leader (Tayyaba Rehman).
 - Changes made in index.html (adding underline tag to the heading) at commit 5 by Eiman Ahmed.
 - Changes made in index.html(Change heading text to uppercase)at commit 7 by Shafia Murad.
+- Changes made in index.html(added a paragraph tag with <i>tag) at commit 9 by Amna Asad.
